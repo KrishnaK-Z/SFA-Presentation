@@ -596,7 +596,7 @@ no-js
 
 .tiltview {
 	position: absolute;
-	left: 50%;
+	left: 30%;
 	width: 50%;
 	top: 50%;
 	transform-style: preserve-3d;
