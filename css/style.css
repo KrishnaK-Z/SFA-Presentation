@@ -243,7 +243,12 @@ Slide Content
 .cd-slideshow > li:nth-of-type(11) .cd-slider-content .content-wrapper {
   background: #00ad45;
 }
-
+.cd-slideshow > li:nth-of-type(12) .cd-slider-content .content-wrapper {
+  background: #494e58;
+}
+.cd-slideshow > li:nth-of-type(13) .cd-slider-content .content-wrapper {
+  background: #2d72d9;
+}
 .cd-slider-content h2 {
   font-size: 3rem;
   color: #ffffff;
@@ -574,10 +579,7 @@ no-js
 
 .tlite-content{
     perspective: 1500px;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
+    }
 
 .description {
 	width: 50%;
